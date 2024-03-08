@@ -8,4 +8,4 @@
 Here are some (~somewhat) cool hacks / `gits`:
 - 🏃🏻‍♂️ When I wanted to ship fast, I wrote a [Minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62)
 
-**I am currently looking for new opportunities as a Senior ML Engineer**
+**I am currently looking for new opportunities as a Senior ML Engineer / Tech Lead**
