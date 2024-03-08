@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working as a Lead ML Engineer, with a focus on NLP & MLOps.
 - 🌱 I'm also maintainer of [modelkit](https://github.com/Cornerstone-OnDemand/modelkit), a minimalist MLOps Python framework
+- 📖 From time to time, I try to document my thoughts and appreciation for topics or resources I have found valuable in [nuggets](https://github.com/antoinejeannot/nuggets)
 - 🏔️ You can find near Paris or hiking in the Pyrénées
 
 Here are some (~somewhat) cool hacks / `gits`:
