@@ -7,6 +7,6 @@
 - 🏔️ You can find me near Paris or hiking in the Pyrénées
 
 Here are some (~somewhat) cool hacks / `gits`:
-- 🏃🏻‍♂️ When I wanted to ship fast, I wrote a [Minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62)
+- 🏃🏻‍♂️ When I want to ship fast, I enable [Minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62)
 
 I am currently looking for new gig as a Lead / Senior ML Engineer
