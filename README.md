@@ -8,5 +8,4 @@
 
 Here are some (~somewhat) cool hacks / `gits`:
 - 🏃🏻‍♂️ When I want to ship fast, I enable [Minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62)
-
-I am currently looking for new gig as a Lead / Senior ML Engineer
+  
