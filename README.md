@@ -6,6 +6,6 @@ I have been the main maintainer of [modelkit](https://github.com/Cornerstone-OnD
 
 I have contributed to the following projects: 🤗 [huggingface/smolagents](https://github.com/huggingface/smolagents), [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode), [carbonfact/lea](https://github.com/carbonfact/lea)
 
-I have a few additional side projects, such as 🍊 [daidai](https://github.com/antoinejeannot/daidai), ⚖️ [Jurisprudence](https://huggingface.co/datasets/antoinejeannot/jurisprudence), 📔 [Paul Graham Compilation](https://github.com/antoinejeannot/graham), 🖋️ [nuggets](https://github.com/antoinejeannot/nuggets), [minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62) and some hidden ones in theft mode.
+I have a few additional side projects, such as 🍊[daidai](https://github.com/antoinejeannot/daidai), ⚖️ [Jurisprudence](https://huggingface.co/datasets/antoinejeannot/jurisprudence), 📔 [Paul Graham Compilation](https://github.com/antoinejeannot/graham), 🖋️ [nuggets](https://github.com/antoinejeannot/nuggets), [minimalist LLM-powered git message](https://gist.github.com/antoinejeannot/efaa44a9de5b10024eac993034ce3a62) and some hidden ones in stealth mode.
 
 You can find me near Paris or hiking in the Pyrénées 🏔️
